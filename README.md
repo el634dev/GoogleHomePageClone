@@ -20,7 +20,7 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open (http://localhost:3000) to view it in your browser.
 
-Or you can create seperate files for JavaScript, HTMl and CSS in VSCode or another code editor/IDE such as Atom.
+Or you can create seperate files for JavaScript, HTML and CSS in VSCode or another code editor/IDE such as Atom.
 
 Once the development server is started the page will reload once you make edits and will save the page once you reload.
 You will also see any lint errors in the console below your code, npm and in the browser.
